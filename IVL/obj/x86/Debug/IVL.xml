@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IVL
+</name>
+</assembly>
+<members>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WindowsApplication1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:WindowsApplication1.modVisa.FindSiglent">
+ ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''VISA LIBRARY IMPORTS''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+</member><member name="M:WindowsApplication1.Model1Container.#ctor">
+	<summary>
+ Initializes a new Model1Container object using the connection string found in the 'Model1Container' section of the application configuration file.
+ </summary>
+</member><member name="M:WindowsApplication1.Model1Container.#ctor(System.String)">
+	<summary>
+ Initialize a new Model1Container object.
+ </summary>
+</member><member name="M:WindowsApplication1.Model1Container.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+ Initialize a new Model1Container object.
+ </summary>
+</member><member name="T:WindowsApplication1.Model1Container">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member>
+</members>
+</doc>
